@@ -31,7 +31,7 @@ def EulerianPath(D):
                 njegov_par=values[index]
     return put
 
-#ova funkcija radena je po algoritmu iz zadatka BA3M:
+#ova funkcija radena je po algoritmu iz zadatka BA3L:
 def StringSpelledGappedPatterns(lista,k,d):
     FirstPatterns=[]
     SecondPatterns=[]
